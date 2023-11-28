@@ -1,6 +1,7 @@
 # Создание дашборда по пользовательским событиям для агрегатора новостей
 
 [Project_Tableau](https://github.com/SofiaLipskaia/Portfolio/blob/main/Dashboard%20Yandex%20Dzen/Project_Tableau.ipynb)
+
 [Dashboard_YandexDzen](https://public.tableau.com/app/profile/sofia.lipskaia/viz/Yandex_dzen_16882513543020/_?publish=yes)
 
 ## Описание проекта
