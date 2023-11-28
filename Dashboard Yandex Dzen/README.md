@@ -1,4 +1,4 @@
-# Создание дашборда по пользовательским событиям для агрегатора новостей
+# Создание дашборда пользовательских событий для агрегатора новостей
 
 [Project_Tableau](https://github.com/SofiaLipskaia/Portfolio/blob/main/Dashboard%20Yandex%20Dzen/Project_Tableau.ipynb)
 
