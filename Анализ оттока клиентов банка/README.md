@@ -1,6 +1,6 @@
 # Анализ оттока клиентов банка
 
-[Project_ProcrastinatePRO+](https://github.com/SofiaLipskaia/Portfolio/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20ProcrastinatePRO%2B/Project_ProcrastinatePRO%2B.ipynb)
+[Project_customer_churn](https://github.com/SofiaLipskaia/Portfolio/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0/Project_customer_churn.ipynb)
 
 ## Описание проекта
 Необходимо выделить высокоотточные сегменты клиентов, чтобы они покрывали максимум проблемных зон и дать их описание и рекоммендации заказчику по мерам снижения отточности.
@@ -14,9 +14,9 @@
 * math
 * scipy
 * phik
-* кореляционный анализ
 * статистический анализ
-* проверка стат гипотез
+* кореляционный анализ
+* проверка стат. гипотез
 * tableau
 * построение дашбордов
 
